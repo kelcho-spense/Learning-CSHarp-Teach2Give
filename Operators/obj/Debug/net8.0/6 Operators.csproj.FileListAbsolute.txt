@@ -1,0 +1,14 @@
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\bin\Debug\net8.0\6 Operators.exe
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\bin\Debug\net8.0\6 Operators.deps.json
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\bin\Debug\net8.0\6 Operators.runtimeconfig.json
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\bin\Debug\net8.0\6 Operators.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\bin\Debug\net8.0\6 Operators.pdb
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\6 Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\6 Operators.AssemblyInfoInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\6 Operators.AssemblyInfo.cs
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\6 Operators.csproj.CoreCompileInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\6 Operators.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\refint\6 Operators.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\6 Operators.pdb
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\6 Operators.genruntimeconfig.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Operators\obj\Debug\net8.0\ref\6 Operators.dll

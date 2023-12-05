@@ -1,0 +1,17 @@
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\bin\Debug\net8.0\Async -BookMS.exe
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\bin\Debug\net8.0\Async -BookMS.deps.json
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\bin\Debug\net8.0\Async -BookMS.runtimeconfig.json
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\bin\Debug\net8.0\Async -BookMS.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\bin\Debug\net8.0\Async -BookMS.pdb
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.csproj.AssemblyReference.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.AssemblyInfoInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.AssemblyInfo.cs
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.csproj.CoreCompileInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.csproj.CopyComplete
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\refint\Async -BookMS.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.pdb
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\Async -BookMS.genruntimeconfig.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Async -BookMS\obj\Debug\net8.0\ref\Async -BookMS.dll

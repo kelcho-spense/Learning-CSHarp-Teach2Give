@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E649C-E2E7-4E8D-AF1A-AF32CCBDF84C}|TestingExamples\\TestingExamples.csproj|c:\\users\\kevincombagatimu\\desktop\\dotnet\\learning csharp\\testingexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E649C-E2E7-4E8D-AF1A-AF32CCBDF84C}|TestingExamples\\TestingExamples.csproj|solutionrelative:testingexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E649C-E2E7-4E8D-AF1A-AF32CCBDF84C}|TestingExamples\\TestingExamples.csproj|c:\\users\\kevincombagatimu\\desktop\\dotnet\\learning csharp\\testingexamples\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E649C-E2E7-4E8D-AF1A-AF32CCBDF84C}|TestingExamples\\TestingExamples.csproj|solutionrelative:testingexamples\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6E649C-E2E7-4E8D-AF1A-AF32CCBDF84C}|TestingExamples\\TestingExamples.csproj|c:\\users\\kevincombagatimu\\desktop\\dotnet\\learning csharp\\testingexamples\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6E649C-E2E7-4E8D-AF1A-AF32CCBDF84C}|TestingExamples\\TestingExamples.csproj|solutionrelative:testingexamples\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E90E6A-0CCA-45FE-B6ED-E6B06D341681}|8 ProductStore\\8 ProductStoredelete.csproj|c:\\users\\kevincombagatimu\\desktop\\dotnet\\learning csharp\\8 productstore\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E90E6A-0CCA-45FE-B6ED-E6B06D341681}|8 ProductStore\\8 ProductStoredelete.csproj|solutionrelative:8 productstore\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E90E6A-0CCA-45FE-B6ED-E6B06D341681}|8 ProductStore\\8 ProductStoredelete.csproj|c:\\users\\kevincombagatimu\\desktop\\dotnet\\learning csharp\\8 productstore\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E90E6A-0CCA-45FE-B6ED-E6B06D341681}|8 ProductStore\\8 ProductStoredelete.csproj|solutionrelative:8 productstore\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\TestingExamples\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "TestingExamples\\HelloWorld.cs",
+              "ToolTip": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\TestingExamples\\HelloWorld.cs",
+              "RelativeToolTip": "TestingExamples\\HelloWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T07:23:32.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\TestingExamples\\MyMath.cs",
+              "RelativeDocumentMoniker": "TestingExamples\\MyMath.cs",
+              "ToolTip": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\TestingExamples\\MyMath.cs",
+              "RelativeToolTip": "TestingExamples\\MyMath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T07:23:07.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\TestingExamples\\Program.cs",
+              "RelativeDocumentMoniker": "TestingExamples\\Program.cs",
+              "ToolTip": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\TestingExamples\\Program.cs",
+              "RelativeToolTip": "TestingExamples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T07:22:24.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\8 ProductStore\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "8 ProductStore\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\8 ProductStore\\Controller\\ProductController.cs",
+              "RelativeToolTip": "8 ProductStore\\Controller\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T11:11:24.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\8 ProductStore\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "8 ProductStore\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\KevinCombaGatimu\\Desktop\\Dotnet\\Learning CSHarp\\8 ProductStore\\Service\\ProductService.cs",
+              "RelativeToolTip": "8 ProductStore\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T10:59:24.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

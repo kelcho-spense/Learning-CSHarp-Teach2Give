@@ -1,0 +1,14 @@
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\bin\Debug\net8.0\TestingExamples.exe
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\bin\Debug\net8.0\TestingExamples.deps.json
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\bin\Debug\net8.0\TestingExamples.runtimeconfig.json
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\bin\Debug\net8.0\TestingExamples.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\bin\Debug\net8.0\TestingExamples.pdb
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\TestingExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\TestingExamples.AssemblyInfoInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\TestingExamples.AssemblyInfo.cs
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\TestingExamples.csproj.CoreCompileInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\TestingExamples.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\refint\TestingExamples.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\TestingExamples.pdb
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\TestingExamples.genruntimeconfig.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\TestingExamples\obj\Debug\net8.0\ref\TestingExamples.dll

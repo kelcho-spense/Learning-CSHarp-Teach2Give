@@ -1,0 +1,5 @@
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\8 ProductStore\obj\Debug\net8.0\8 ProductStoredelete.csproj.AssemblyReference.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\8 ProductStore\obj\Debug\net8.0\8 ProductStoredelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\8 ProductStore\obj\Debug\net8.0\8 ProductStoredelete.AssemblyInfoInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\8 ProductStore\obj\Debug\net8.0\8 ProductStoredelete.AssemblyInfo.cs
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\8 ProductStore\obj\Debug\net8.0\8 ProductStoredelete.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\bin\Debug\net8.0\4 Files.cs.exe
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\bin\Debug\net8.0\4 Files.cs.deps.json
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\bin\Debug\net8.0\4 Files.cs.runtimeconfig.json
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\bin\Debug\net8.0\4 Files.cs.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\bin\Debug\net8.0\4 Files.cs.pdb
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\4 Files.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\4 Files.cs.AssemblyInfoInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\4 Files.cs.AssemblyInfo.cs
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\4 Files.cs.csproj.CoreCompileInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\4 Files.cs.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\refint\4 Files.cs.dll
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\4 Files.cs.pdb
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\4 Files.cs.genruntimeconfig.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Files.cs\obj\Debug\net8.0\ref\4 Files.cs.dll

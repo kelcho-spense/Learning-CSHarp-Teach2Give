@@ -1,0 +1,4 @@
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Collections\obj\Debug\net8.0\1 Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Collections\obj\Debug\net8.0\1 Collections.AssemblyInfoInputs.cache
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Collections\obj\Debug\net8.0\1 Collections.AssemblyInfo.cs
+C:\Users\KevinCombaGatimu\Desktop\Dotnet\Learning CSHarp\Collections\obj\Debug\net8.0\1 Collections.csproj.CoreCompileInputs.cache
